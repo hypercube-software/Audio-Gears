@@ -4,5 +4,5 @@
 
 Welcome to Audio Gears !
 
-This little site provides insights about various audio equipment I had the pleasure to dismount.
+This little site provides insights about various audio units I had the pleasure to dismount.
 
