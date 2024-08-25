@@ -1,0 +1,1 @@
+C:\Python\Python312\python.exe -m http.server 10092
