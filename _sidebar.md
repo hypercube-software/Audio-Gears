@@ -7,6 +7,7 @@
     - [Boss DS-330](Boss-DS-330/ds330.md)
 - M-Audio
     - [Profire 610](M-Audio-Profire-610/profire610.md)
-
+- Kurzweil
+	- [K2600R](K2600R/k2600r.md)
 - [Github Repo](https://github.com/hypercube-software/Audio-Gears)
 
