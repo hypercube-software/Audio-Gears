@@ -47,7 +47,7 @@ The Yamaha TQ-5 is the desktop version of the YS-200.
 
 ![image-20260725191018851](assets/image-20260725191018851.png)
 
-The firmware is located in **IC6** which is an Toshiba EPROM: TC571000D-20. This chip contains the sounds.
+The firmware is located in **IC6** which is a Toshiba EPROM: TC571000D-20. This chip contains the sounds.
 
 ## SRAM
 
@@ -73,7 +73,7 @@ The digital signal (floating point samples) is serialized through 2 bits: **SH1*
 
 ## LDSP
 
-LDSP stands for "Delay Digital Signal Processor". It is responsible for **Delay** and **Reverb**.
+This chip is responsible for **Delay** and **Reverb**.
 
 ![image-20260725222536363](assets/image-20260725222536363.png)
 
@@ -99,7 +99,7 @@ Some info can be found in **Yamaha HS Series Organ IC Data book**, I was not abl
 
 ![image-20260725194028315](assets/image-20260725194028315.png)
 
-Apparently it act as the **YM3015** or **YM3020**, it is a 2 bit serial input receiving **4 floating point numbers**.
+Apparently it acts as the **YM3015** or **YM3020**, it is a 2 bit serial input receiving **4 floating point numbers**.
 
 ![image-20260725194220316](assets/image-20260725194220316.png)
 
@@ -165,4 +165,4 @@ The battery holder should be now very close to the PCB.
 
 ![](assets/image-20260725211312615.png)
 
-Note how the LED on the right is very close, so don't try to squeeze the battery holder on the PCB, you may damage it !
+Note how the diode on the right is very close, so don't try to squeeze the battery holder on the PCB, you may damage it !
