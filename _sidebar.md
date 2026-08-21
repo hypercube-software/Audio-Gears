@@ -10,4 +10,6 @@
     - [Profire 610](M-Audio-Profire-610/profire610.md)
 - Kurzweil
 	- [K2600R](K2600R/K2600r.md)
+- Alesis
+  - [S4 Plus](Alesis-S4Plus/S4plus.md)
 - [Github Repo](https://github.com/hypercube-software/Audio-Gears)
